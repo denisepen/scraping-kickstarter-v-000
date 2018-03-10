@@ -25,11 +25,7 @@ require 'pry'
       }
     end
 
-  # return the projects hash
-  projects
-end
-  binding.pry
-end
+
 
 
 
